@@ -1,1 +1,2 @@
-this is two.txt chenged from b2
+this is two.txt chenged from b2 
+deleted branches b1 and b2
